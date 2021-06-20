@@ -5,7 +5,7 @@
 
 ## Essential IDE Tips
 
-|**:pushpin:**|**Options &nbsp;💡**|**Description ♾️**| **Accessibility :link:**|
+|📌|**Options &nbsp;💡**|**Description ♾️**| **Accessibility 🔗**|
 |-------|---------------|--------------------|---------------------|
 |1 |Dependency| Add Maven/Gradle dependency on the go | Alt + Insert |
 |2 |Gutter Icons| Navigation, Can be disabled | Settings -> Editor -> General -> Gutter Icons|
@@ -21,7 +21,7 @@
 ## Navigation Shortcuts
 
 
-|**:pushpin:**|**Options &nbsp;💡**|**Description ♾️**| **Accessibility :link:**|
+|**📌**|**Options &nbsp;💡**|**Description ♾️**| **Accessibility 🔗**|
 |-------|---------------|--------------------|---------------------|
 |1 |Go To Test File| Directly go to same name test file or create one | Ctrl + Shift + T |
 |2 |Code Samples| Find code templates | Settings -> Editor -> File and Code Templates -> Code Tab|
@@ -61,7 +61,7 @@
 
 ## Useful Plugins
 
-|**:pushpin:**|**Plugin &nbsp;💡**|**Description ♾️**|
+|**📌**|**Plugin &nbsp;💡**|**Description ♾️**|
 |-------|---------------|--------------------|
 |1 |Key Promoter X | Learn/Add Shorcuts on the go |
 |2 |.ignore| syntax highlight, user template, file generation, support for multiple |
