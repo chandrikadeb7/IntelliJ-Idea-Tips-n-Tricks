@@ -31,7 +31,7 @@
 |6 |VCS Quick Popup| Open VCS Window | Alt + (Backquote)|
 |7 |Select in Current File| Select Window | Alt + F1 |
 |8 |Go to Class| Find Classes | Ctrl + N|
-|9 |Go To Test File| Directly go to same name test file or create one | Ctrl + Shift + T |
+|9 |Go To Files| Find Files | Ctrl + Shift + N |
 |10 |Type Hierarchy| Show type hierarchy | Ctrl + H |
 |11 |Call Hierarchy| Show function call hierarchy | Ctrl + Alt + H |
 |12 |Diagram Popup| Show class methods dependency diagram popup | Ctrl + Alt + U |
